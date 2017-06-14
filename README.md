@@ -14,6 +14,11 @@ Input Parameters:
   2. output_file: The name of the output_file
   3. x: The number of top most customers with highest LTV
 
+Input file requirements:
+  1. The input file is expected to be in JSON format and currently does not support any other format
+  2. The extension of the file wouldn't matter as long as the data is stored as a JSON object
+  3. Please keep these in mind when formatting the input to the program
+  
 Output:
   Generates an output file with the name and extension supplied by the user.
   The default directory is the output folder alongside the src folder.
