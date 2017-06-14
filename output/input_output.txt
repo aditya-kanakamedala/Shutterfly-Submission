@@ -1,0 +1,5 @@
+LTV for top 2 Customers
+------------------------
+Customer Id    LTV
+96f55c7dbn68  324022.844364
+96f55c7et45  26332.9677419

@@ -1,0 +1,4 @@
+LTV for top 1 Customers
+------------------------
+Customer Id    LTV
+96f55c7d8f42  493.6
